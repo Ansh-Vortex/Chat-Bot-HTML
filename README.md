@@ -37,6 +37,6 @@ To run this application locally, follow these steps:
 2. Help & Business (Instagram): https://instagram.com/fx8ah
 
 Follow & Chat with us:
-- Telegram Channel → https://t.me/highoncodes
+- Telegram → https://t.me/highoncodes
 - Instagram → https://instagram.com/fx8ah
 - Wedsite → https://ansh-gupta-portfolio-eight.vercel.app/
